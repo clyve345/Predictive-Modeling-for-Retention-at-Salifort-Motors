@@ -39,5 +39,5 @@ cd Predictive-Modeling-for-Retention-at-Salifort-Motors
 Currently, this project is not open for contributions. However, feel free to explore the models and use them as a reference for your data analytics projects.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details. The MIT License is a permissive license that is short and to the point. It lets people do anything they want with your code as long as they provide attribution back to you and don’t hold you liable.
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
