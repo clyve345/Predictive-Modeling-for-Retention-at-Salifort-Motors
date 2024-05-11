@@ -21,20 +21,23 @@ Ensure you have Python 3.11.7 installed. You can install all required packages u
 
 ```bash
 pip install pandas numpy matplotlib seaborn sklearn xgboost
+```
 
-**## How to use
+## How to use
 1. Clone the repository to your local machine:
+```bash
 git clone https://github.com/yourusername/Predictive-Modeling-for-Retention-at-Salifort-Motors.git
+```
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
+```bash
 cd Predictive-Modeling-for-Retention-at-Salifort-Motors
-
+```
 3.Run the Python scripts to perform the analysis and view results.
-
 
 ## Contributing
 Currently, this project is not open for contributions. However, feel free to explore the models and use them as a reference for your data analytics projects.
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE.md file for details. The MIT License is a permissive license that is short and to the point. It lets people do anything they want with your code as long as they provide attribution back to you and don’t hold you liable.
 
