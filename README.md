@@ -26,7 +26,7 @@ pip install pandas numpy matplotlib seaborn sklearn xgboost
 ## How to use
 1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/Predictive-Modeling-for-Retention-at-Salifort-Motors.git
+git clone https://github.com/clyve345/Predictive-Modeling-for-Retention-at-Salifort-Motors.git
 ```
 
 2. Navigate to the project directory:
